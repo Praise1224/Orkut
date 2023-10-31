@@ -1,0 +1,260 @@
+body {
+    background-color: #D9E6F7;
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    display: flex;
+    background-color: #ffffff;
+    align-items: center;
+    justify-content: space-evenly;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.logo{
+    padding-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 50px;
+}
+
+.a{
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    padding-bottom: 7px;
+    margin-bottom: 5px;
+    margin-left: 100px;
+}
+.b{
+    padding-bottom: 5px;
+    margin-left: 250px;
+}
+.e{
+    display: flex;
+    gap: 10px;
+    margin-left: 200px;
+}
+.c{
+    display: flex;
+    gap: 10px;
+}
+.d{
+    display: flex;
+    gap:10px;
+}
+.content{
+    display: flex;
+}
+.profile-container{
+    background-color: white;
+    width: 320px;
+    height: 725px;
+    top: 131px;
+    left: 80px;
+    border-radius: 20px;
+    margin:30px 0px 0px 40px;
+}
+.ab{
+    padding: 30px 0px 0px 65px;
+}
+.aa{
+    padding-left: 115px;
+}
+.ac{
+    padding-left: 95px;
+}
+.ad{
+    padding-left: 140px;
+}
+.ff{
+    display: flex;
+    gap: 10px;
+    padding-left: 95px;
+}
+.fav{
+    width: 24px;
+    height: 24px;
+    padding-top: 12px;
+}
+.fff{
+    display: flex;
+    gap: 10px;
+    padding-left: 90px;
+}
+.timeline-container{
+    margin-left: 20px;
+    margin-top: 30px;
+}
+.first{
+    background-color: white;
+    width: 664px;
+    height: 627px;
+    top: 131px;
+    left: 424px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+.xx{
+    padding: 30px 0px 0px 30px;
+}
+.second{
+    background-color: white;
+    width: 664px;
+    height: 301px;
+    top: 782px;
+    left: 424px;
+    border-radius: 20px;
+}
+.cc{
+    padding-left: 30px;
+}
+.dd{
+    background-color: #EFF3F8;
+    padding: 2px 0px 2px 10px;
+    margin-left: 30px;
+    margin-right: 30px;
+    border-radius: 10px;
+}
+.flea{
+    display: flex;
+    gap: 30px;
+    padding-left: 25px;
+}
+.fly{
+    display: flex;
+    gap: 20px;
+    padding-top: 10px;
+    padding-left: 25px;
+} 
+.z{
+    color: #b2beb5;
+}
+.y{
+    padding-left: 20px;
+}
+.fly2{
+    display: flex;
+    gap: 20px;
+    padding-left: 25px;
+}
+.x{
+    padding-left: 75px;
+}
+.fly3{
+    display: flex;
+    gap: 10px;
+    padding-left: 25px;
+}
+.baby{
+    display: flex;
+    gap: 5px;
+    border-radius: 30px;
+    border-style: solid;
+    border-color: #ED2590;
+    padding: 0px 20px 0px 20px;
+    margin-left: 60px;
+}
+.baby2{
+    display: flex;
+    gap: 10px;
+    border-radius: 30px;
+    border-style: solid;
+    border-color: #ED2590;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.baby3{
+    display: flex;
+    gap: 5px;
+    border-radius: 30px;
+    border-style: solid;
+    border-color: #ED2590;
+    padding: 0px 20px 0px 20px;
+    margin-left: 115px;
+    margin-top: 10px;
+}
+.baby4{
+    display: flex;
+    gap: 10px;
+    border-radius: 30px;
+    border-style: solid;
+    border-color: #ED2590;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 10px;
+}
+.gg{
+    padding-top: 30px;
+    padding-left: 15px;
+}
+.gf{
+    display: flex;
+    gap: 20px;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+.zzz{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+}
+.fav2{
+    width: 50px;
+    height: 50px;
+    padding-top: 20px;
+}
+.gf2{
+    display: flex;
+    gap: 20px;
+    padding-top: 5px;
+    padding-left: 20px;
+}
+.fav3{
+    width: 50px;
+    height: 50px;
+    padding-top: 15px;
+}
+.trends-container{
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.third{
+    background-color: white;
+    width: 320px;
+    height: 434px;
+    border-radius: 20px;
+}
+.book{
+    display: flex;
+    gap: 110px;
+    padding: 0px 30px 0px 20px;
+}
+.worm{
+    color: #ED2590;
+}
+.fav4{
+    width: 69px;
+    height: 69px;
+}
+.gay{
+    display: flex;
+    gap: 20px;
+    padding-left: 20px;
+}
+.fourth{
+    background-color: white;
+    width: 320px;
+    height: 434px;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+.book2{
+    display: flex;
+    gap: 75px;
+    padding: 0px 30px 0px 20px;
+}
+.gay1{
+    display: flex;
+    gap: 20px;
+    padding-left: 30px;
+}
